@@ -1,0 +1,13 @@
+Package: com.moufey.moufeyzeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: moufey <angrobertson42@gmail.com>
+Filename: ./debs/com.moufey.moufeyzeppelin_1.0_iphoneos-arm.deb
+Size: 7302
+MD5sum: 0aef6400a72dd98667b35d1aa9a06237
+SHA1: b301c6480b3bd253bfc6023fbc3f9be127b0c5ca
+SHA256: 87e4ea6d750ad4f713f0eb6b3d2607b21f26ac5dfdbc5d09362f0a1e8f2264d3
+Section: Themes (Zeppelin)
+Description: My personal Zeppelin pack
+Author: moufey <angrobertson42@gmail.com>
+Name: Moufey Zeppelin
