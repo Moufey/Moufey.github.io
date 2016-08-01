@@ -1,0 +1,8 @@
+Package: com.moufey.moufeyzeppelin
+Name: Moufey Zeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Description: my personal zeppelin package
+Maintainer: moufey <angrobertson42@gmail.com>
+Author: moufey <angrobertson42@gmail.com>
+Section: Themes (Zeppelin)
